@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-- 📫 How to reach me:
-  
-Connect with me on [LinkedIn](https://www.linkedin.com/in/daniel-talker-04a372307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)!
+# 📫 How to reach me:
+Email: danielt647@gmail.com
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/daniel-talker-04a372307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)!
 
 
 
