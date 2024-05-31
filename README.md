@@ -4,11 +4,7 @@
   
 Connect with me on [LinkedIn](https://www.linkedin.com/in/daniel-talker-04a372307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)!
 
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
-<!-- MARKDOWN LINKS & IMAGES -->
-[linkedin-shield]: https://img.shields.io/badge/LinkedIn-blue.svg?style=flat-square&logo=linkedin&logoColor=white
-[linkedin-url]: https://www.linkedin.com/in/daniel-talker-04a372307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 
 
 
