@@ -9,7 +9,7 @@ LinkedIn: [LinkedIn](https://www.linkedin.com/in/daniel-talker-04a372307?utm_sou
 
 
 ## 🔧 Technologies & Tools
-Python | Java | JavaScript | C | C++ | Git | HTML | CSS | JIRA | Android Studio | React | Node.js | MySQL
+Python | Java | JavaScript | C | C++ | Git | HTML | CSS | JIRA | Android Studio | React | Node.js | MySQL | Docker
 
 
 
