@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 📫 How to reach me:
+Connect with me on [LinkedIn](https://www.linkedin.com/in/daniel-talker-04a372307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)!
+
+
 <!--
 **DanielTalker/DanielTalker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,8 +15,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-Connect with me on [LinkedIn](https://www.linkedin.com/in/daniel-talker-04a372307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)!
-
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
