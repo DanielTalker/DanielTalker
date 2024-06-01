@@ -2,6 +2,9 @@
 
 I'm a Computer Science student with a fervent passion for learning ,a drive to challenge myself and exploring a wide range of programming topics.
 
+![Hits](https://hits.dwyl.com/DanielTalker/your-repo-name.svg)
+
+
 ## 📫 How to reach me:
 Email: danielt647@gmail.com
 
