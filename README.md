@@ -16,6 +16,7 @@ Python | Java | JavaScript | C | C++ | Git | HTML | CSS | JIRA | Android Studio 
 - Machine Learning
 - Operating Systems
 - Advanced Algorithms
+- Computability and Complexity
 - Database Systems
 
 ## 🎯 Some of my projects:
