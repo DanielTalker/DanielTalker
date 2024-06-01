@@ -17,7 +17,7 @@ Python | Java | JavaScript | C | C++ | Git | HTML | CSS | JIRA | Android Studio 
 - Advanced Algorithms
 - Database Systems
 
-## 💼 Some of my projects:
+## 🎯 Some of my projects:
 
 - 🌐 Foobar: A comprehensive Facebook-like application and website that incorporates both front-end and back-end functionalities. This project mirrors the complex interactions of a social media platform, offering features such as user profiles, friend systems, posts, comments, and real-time updates. Designed to showcase my full-stack development skills, Foobar provides a deep dive into the practical applications of technologies like React, Node.js, and MongoDB. The complete project will soon be accessible for browsing on my GitHub repository.
 
