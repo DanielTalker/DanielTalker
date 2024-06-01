@@ -13,9 +13,9 @@ LinkedIn: [LinkedIn](https://www.linkedin.com/in/daniel-talker-04a372307?utm_sou
 Python | Java | JavaScript | C | C++ | Git | HTML | CSS | JIRA | Android Studio | React | Node.js | MySQL | Docker
 
 ## 🌱 I’m currently learning
-- Machine Learning
-- Operating Systems
 - Advanced Algorithms
+- Operating Systems
+- Machine Learning
 - Computability and Complexity
 - Database Systems
 
