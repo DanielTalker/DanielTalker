@@ -2,7 +2,7 @@
 
 I'm a Computer Science student with a fervent passion for learning ,a drive to challenge myself and exploring a wide range of programming topics.
 
-![Hits](https://hits.dwyl.com/DanielTalker/your-repo-name.svg)
+![Visitor count](https://visitor-badge.glitch.me/badge?page_id=DanielTalker)
 
 
 ## 📫 How to reach me:
