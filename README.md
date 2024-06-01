@@ -16,7 +16,7 @@ Python | Java | JavaScript | C | C++ | Git | HTML | CSS | JIRA | Android Studio 
 - 🌐 Foobar: A comprehensive Facebook-like application and website that incorporates both front-end and back-end functionalities. This project mirrors the complex interactions of a social media platform, offering features such as user profiles, friend systems, posts, comments, and real-time updates. Designed to showcase my full-stack development skills, Foobar provides a deep dive into the practical applications of technologies like React, Node.js, and MongoDB. The complete project will soon be accessible for browsing on my GitHub repository.
 
 - 🕹️ Arkanoid: Arkanoid is a timeless brick-breaking game where you control a paddle to keep a ball in play and smash through bricks. My version of Arkanoid offers multiple levels and introduces exciting new gameplay challenges. You can find the complete code on my GitHub repository. Explore the full source code on my GitHub repository and enjoy the engaging experience!
-                       [Check out the code and play the game!](https://github.com/DanielTalker/Arkanoid)
+                       [Check out the code and play!](https://github.com/DanielTalker/Arkanoid)
 
 
 
