@@ -13,11 +13,9 @@ Python | Java | JavaScript | C | C++ | Git | HTML | CSS | JIRA | Android Studio 
 
 
 ## 🌱 I’m currently learning
-- Advanced Algorithms
-- Operating Systems
-- Machine Learning
-- Computability and Complexity
-- Database Systems
+- Communication Networks
+- Principles of programming languages
+- User interface principals
 
 ## 🎯 Some of my recent projects:
 
