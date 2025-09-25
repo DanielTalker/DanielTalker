@@ -22,6 +22,9 @@ Python | Java | JavaScript | C | C++ | Git | HTML | CSS | JIRA | Android Studio 
 - 🌐 Foobar: A comprehensive Facebook-like application and website that incorporates both front-end and back-end functionalities. This project mirrors the complex interactions of a social media platform, offering features such as user profiles, friend systems, posts, comments, and real-time updates. Designed to showcase my full-stack development skills, Foobar provides a deep dive into the practical applications of technologies like React, Node.js, and MongoDB.                                             
 ****The complete project will soon be accessible for browsing on my GitHub repository.****
 
+- ✅ Task Manager App: A full-stack task management application with support for creating, updating, deleting, filtering, and marking tasks as completed. Built using React, Node.js, Express, and CSS, it features an intuitive UI, toggle switch for status changes, priority indicators, and a smooth endless carousel. This project demonstrates clean API design, modular frontend structure, and input validation.
+[Explore the code on GitHub](https://github.com/DanielTalker/Task_Manager_App.git)
+
 - 🕹️ Arkanoid: Arkanoid is a timeless brick-breaking game where you control a paddle to keep a ball in play and smash through bricks. My version of Arkanoid offers multiple levels and introduces exciting new gameplay challenges. Explore the full source code on my GitHub repository and enjoy the engaging experience!
                        [Check out the code and play!](https://github.com/DanielTalker/Arkanoid)
 
